@@ -4,6 +4,8 @@ I build software that respects the people who use it.
 
 R&D Software Engineer with 10+ years of experience designing scalable, resilient systems on cloud-native platforms. Most of my work orbits a few core beliefs: **your data should stay yours**, **the best features don't need a server**, and **complexity should live in the architecture, not in the user's face**.
 
+> **TL;DR** — Java/Spring Boot engineer, 10+ years, cloud-native & Kubernetes. Build privacy-first apps and dev tools on the side. Tinker with local LLMs and on-device AI. ISB Emerging Leaders alum. [LinkedIn](https://www.linkedin.com/in/ajitkumargunturi/).
+
 ---
 
 ### What I do at work
