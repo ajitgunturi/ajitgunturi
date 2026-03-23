@@ -10,12 +10,9 @@ R&D Software Engineer with 10+ years of experience designing scalable, resilient
 
 ### What I do at work
 
-- **Zero-downtime deployments** — engineered health monitoring across control and data planes to keep services up during rolling updates on Kubernetes
-- **Control plane engineering** — runtime-tunable observability, CLI tooling for platform APIs, data-driven performance optimization
-- **Platform-scale data systems** — built centralized platforms serving 24K+ users with 10+ integrations and auto-sync across enterprise services
-- **API strategy** — designed API hub patterns (discover, develop, distribute) for microservices ecosystems, validated by tech leadership
-- **Zero-downtime migrations** — orchestrated storage migrations using canary deployment strategies with full data integrity guarantees
-- **CI/CD automation** — self-service release pipelines that empower teams to deploy independently
+- **Platform engineering** — build and operate Kubernetes-based platforms that integrate with resource providers, support advanced release strategies (red-black, canary, rolling), and right-size resource requests based on actual consumption to eliminate over-provisioned, under-utilized infrastructure
+- **Control plane engineering** — runtime-tunable observability, CLI tooling for platform APIs, health monitoring across control and data planes for zero-downtime deployments
+- **API strategy** — designed API hub patterns (discover, develop, distribute) for microservices ecosystems
 - **Mentorship** — guiding cross-functional teams, mentoring engineers, and building a culture of ownership and continuous learning
 
 ### What I'm building (personal)
