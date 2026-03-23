@@ -49,6 +49,17 @@ I understand app development end-to-end — TDD, E2E testing, simulator workflow
 
 Core Java developer by trade — equally comfortable rolling up sleeves with UI teams to ship end-to-end.
 
+### What I tinker with
+
+I'm drawn to solving everyday friction with software — the kind of problems that aren't glamorous but save real time:
+
+- **File deduplication** — taming years of scattered backups and duplicates across drives
+- **Speech diarization** — on-device transcription that knows who said what, no cloud required
+- **Local LLMs** — exploring what runs well on Apple Silicon and how to wire it into daily workflows
+- **AI plugins for life and work** — nothing invasive, just quiet automation that compounds into 100x productivity
+
+The thread across all of it: tools that run locally, respect your privacy, and remove friction you didn't know you had.
+
 ---
 
 <sub>I'm interested in the intersection of personal software, financial sovereignty, and on-device AI. If any of that resonates — [let's connect](https://www.linkedin.com/in/ajitkumargunturi/).</sub>
