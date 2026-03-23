@@ -11,6 +11,7 @@ R&D Software Engineer with 10+ years of experience designing scalable, resilient
 ### What I do at work
 
 - **Platform engineering** — build and operate Kubernetes-based platforms that integrate with resource providers, support advanced release strategies (red-black, canary, rolling), and right-size resource requests based on actual consumption to eliminate over-provisioned, under-utilized infrastructure
+- **Kubernetes operators & controllers** — design and build custom controllers using Kubebuilder and Go to extend the platform's control plane
 - **Control plane engineering** — runtime-tunable observability, CLI tooling for platform APIs, health monitoring across control and data planes for zero-downtime deployments
 - **API strategy** — designed API hub patterns (discover, develop, distribute) for microservices ecosystems
 - **Mentorship** — guiding cross-functional teams, mentoring engineers, and building a culture of ownership and continuous learning
