@@ -38,7 +38,6 @@ R&D Software Engineer with 10+ years of experience designing scalable, resilient
 **Core (write it cold):**
 `Java` · `Spring Boot` · `Golang` · `Python` · `Kubernetes` · `Docker` · `Microservices` · `Kubebuilder` · `Temporal` · `MySQL` · `PostgreSQL` · `MongoDB` · `Redis` · `S3` · `GitHub Actions` · `Jenkins` · `CI/CD`
 
-Build Kubernetes operators and custom controllers using Kubebuilder and Go to extend platform control planes.
 
 **AI-assisted (strong process knowledge, build with AI pairing):**
 `Flutter` · `Dart` · `TypeScript` · `Node.js` · `SwiftUI`
