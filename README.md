@@ -4,7 +4,7 @@ I build software that respects the people who use it.
 
 R&D Software Engineer with 10+ years of experience designing scalable, resilient systems on cloud-native platforms. Most of my work orbits a few core beliefs: **your data should stay yours**, **the best features don't need a server**, and **complexity should live in the architecture, not in the user's face**.
 
-> **TL;DR** — Java/Spring Boot engineer, 10+ years, cloud-native & Kubernetes. Build privacy-first apps and dev tools on the side. Tinker with local LLMs and on-device AI. ISB Emerging Leaders alum. [LinkedIn](https://www.linkedin.com/in/ajitkumargunturi/).
+> **TL;DR** — Java/Spring Boot engineer, 10+ years, cloud-native & Kubernetes. Build privacy-first apps and dev tools on the side, shipping them under [**arcanelabsio**](https://github.com/arcanelabsio). Tinker with local LLMs and on-device AI. ISB Emerging Leaders alum. [LinkedIn](https://www.linkedin.com/in/ajitkumargunturi/).
 
 ---
 
@@ -17,11 +17,15 @@ R&D Software Engineer with 10+ years of experience designing scalable, resilient
 
 ### What I'm building (personal)
 
-**[Vael](https://github.com/ajitgunturi/vael)** — A privacy-first family finance app for Indian households. Local-first, encrypted, zero-cost. Families get a shared financial picture — net worth, budgets, goals, projections — without surrendering data to anyone. Built with Flutter, Drift ORM, AES-GCM encryption, and Google Drive as a dumb encrypted pipe. 400+ tests, TDD from day one.
+All shipping under [**arcanelabsio**](https://github.com/arcanelabsio) — the umbrella for privacy-first, local-first software I build in the evenings.
 
-**[Forge](https://github.com/ajitgunturi/forge)** — A CLI that gives AI coding assistants superpowers over your GitHub workflow. One install plugs into Copilot, Claude Code, Codex, and Gemini CLI — PR reviews, discussion analysis, commit coaching. Zero lock-in.
+**[Longeviti](https://longeviti.app)** — A bring-your-own-AI longevity tracking app. Your blood work and daily logs drive adaptive meal and supplement plans — but the app itself does zero AI compute. Your own Claude or Codex session reads your reports, writes plans that conform to public JSON schemas, and lands them on your own Google Drive. No servers, no inference fees to us, no data we can see. [Docs](https://longeviti.app) · [Framework](https://github.com/arcanelabsio/longeviti-framework).
 
-**[Shellcraft](https://github.com/ajitgunturi/shellcraft)** — A macOS dev machine bootstrapper with profile-based package selection and non-destructive dotfile management.
+**[Vael](https://github.com/arcanelabsio/vael)** — A privacy-first family finance app for Indian households. Local-first, encrypted, zero-cost. Families get a shared financial picture — net worth, budgets, goals, projections — without surrendering data to anyone. Built with Flutter, Drift ORM, AES-GCM encryption, and Google Drive as a dumb encrypted pipe. 400+ tests, TDD from day one.
+
+**[Forge](https://github.com/arcanelabsio/forge)** — A CLI that gives AI coding assistants superpowers over your GitHub workflow. One install plugs into Copilot, Claude Code, Codex, and Gemini CLI — PR reviews, discussion analysis, commit coaching. Zero lock-in.
+
+**[Shellcraft](https://github.com/arcanelabsio/shellcraft)** — A macOS dev machine bootstrapper with profile-based package selection and non-destructive dotfile management.
 
 ---
 
@@ -62,4 +66,4 @@ The thread across all of it: tools that run locally, respect your privacy, and r
 
 ---
 
-<sub>I'm interested in the intersection of personal software, financial sovereignty, and on-device AI. If any of that resonates — [let's connect](https://www.linkedin.com/in/ajitkumargunturi/).</sub>
+<sub>I'm interested in the intersection of personal software, financial sovereignty, health data ownership, and on-device AI. If any of that resonates — [let's connect](https://www.linkedin.com/in/ajitkumargunturi/).</sub>
