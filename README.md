@@ -21,8 +21,6 @@ All shipping under [**arcanelabsio**](https://github.com/arcanelabsio) — the u
 
 **[Longeviti](https://longeviti.app)** — A bring-your-own-AI longevity tracking app. Your blood work and daily logs drive adaptive meal and supplement plans — but the app itself does zero AI compute. Your own Claude or Codex session reads your reports, writes plans that conform to public JSON schemas, and lands them on your own Google Drive. No servers, no inference fees to us, no data we can see. [Docs](https://longeviti.app) · [Framework](https://github.com/arcanelabsio/longeviti-framework).
 
-**[Vael](https://github.com/arcanelabsio/vael)** — A privacy-first family finance app for Indian households. Local-first, encrypted, zero-cost. Families get a shared financial picture — net worth, budgets, goals, projections — without surrendering data to anyone. Built with Flutter, Drift ORM, AES-GCM encryption, and Google Drive as a dumb encrypted pipe. 400+ tests, TDD from day one.
-
 **[Forge](https://github.com/arcanelabsio/forge)** — A CLI that gives AI coding assistants superpowers over your GitHub workflow. One install plugs into Copilot, Claude Code, Codex, and Gemini CLI — PR reviews, discussion analysis, commit coaching. Zero lock-in.
 
 **[Shellcraft](https://github.com/arcanelabsio/shellcraft)** — A macOS dev machine bootstrapper with profile-based package selection and non-destructive dotfile management.
